@@ -14,12 +14,19 @@ Another example would be Soccer Match Outcome/Goals Prediction based on their st
 We will also be covering the analysis/ questions like below using the best classifier to compare through the performance matrix and make predictions:-
 
 Which players are the best finishers?
+
 Analyzing Goals Scored?
+
 Analyzing Substitutions?
+
 Analyzing Yellow/Red Cards?
+
 Analyzing Penalties?
+
 Which players have the most “expected goals”?
+
 Which players are the worst at deciding their shots?
+
 Which players make the best/most dangerous passes?
 
 collab link :
